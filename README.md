@@ -67,112 +67,112 @@ Below is the curated list of enterprise commercial SaaS and hosted mining FMS pl
 
 ## 🔓 Open-Source Repositories & Building Blocks
 
-> **Note:** Open-source projects are organized below by category and strictly sorted by **GitHub Star Count** in descending order. Each star badge directly links to the repository's **Stargazers** page! 🌟
+> **Note:** Open-source projects are organized below by category and strictly sorted by **GitHub Stars_Count** in descending order. Each Stars_Badge directly links to the repository's **Stargazers** page! 🌟
 
 ### 🤖 AI, LLM & Machine Learning Frameworks
 
-| 📦 Repository | 📝 Description | ⭐ Star Count |
+| 📦 Repository | 📝 Description | ⭐ Stars_Count |
 | :--- | :--- | :--- |
-| **[huggingface/transformers](https://github.com/huggingface/transformers)** | State-of-the-art Natural Language Processing and AI models for document intelligence, mining maintenance assistants, and automated log analysis. | [![GitHub stars](https://img.shields.io/github/stars/huggingface/transformers?style=social)](https://github.com/huggingface/transformers/stargazers) |
-| **[ollama/ollama](https://github.com/ollama/ollama)** | Lightweight runtime for executing private, local LLMs over mine site operational manuals, telemetry logs, and dispatch records. | [![GitHub stars](https://img.shields.io/github/stars/ollama/ollama?style=social)](https://github.com/ollama/ollama/stargazers) |
-| **[pytorch/pytorch](https://github.com/pytorch/pytorch)** | Deep learning platform for computer-vision obstacle detection, haul truck payload estimation, and predictive maintenance models. | [![GitHub stars](https://img.shields.io/github/stars/pytorch/pytorch?style=social)](https://github.com/pytorch/pytorch/stargazers) |
-| **[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn)** | Machine learning library for predicting equipment failure, haul cycle times, fuel consumption, and anomaly detection. | [![GitHub stars](https://img.shields.io/github/stars/scikit-learn/scikit-learn?style=social)](https://github.com/scikit-learn/scikit-learn/stargazers) |
-| **[scipy/scipy](https://github.com/scipy/scipy)** | Fundamental algorithms for scientific computing, statistical analysis of truck cycles, and numerical optimization. | [![GitHub stars](https://img.shields.io/github/stars/scipy/scipy?style=social)](https://github.com/scipy/scipy/stargazers) |
-| **[vllm-project/vllm](https://github.com/vllm-project/vllm)** | High-throughput open-source LLM inference engine for mining operations AI assistants. | [![GitHub stars](https://img.shields.io/github/stars/vllm-project/vllm?style=social)](https://github.com/vllm-project/vllm/stargazers) |
-| **[numpy/numpy](https://github.com/numpy/numpy)** | High-performance array computing foundation for simulation, telemetry analysis, and mathematical modeling. | [![GitHub stars](https://img.shields.io/github/stars/numpy/numpy?style=social)](https://github.com/numpy/numpy/stargazers) |
-| **[dmlc/xgboost](https://github.com/dmlc/xgboost)** | Scalable gradient boosting library for equipment downtime prediction and yield forecasting. | [![GitHub stars](https://img.shields.io/github/stars/dmlc/xgboost?style=social)](https://github.com/dmlc/xgboost/stargazers) |
+| **[huggingface/transformers](https://github.com/huggingface/transformers)** | State-of-the-art Natural Language Processing and AI models for document intelligence, mining maintenance assistants, and automated log analysis. | [![GitHub_Stars](https://img.shields.io/github/stars/huggingface/transformers?style=social)](https://github.com/huggingface/transformers/stargazers) |
+| **[ollama/ollama](https://github.com/ollama/ollama)** | Lightweight runtime for executing private, local LLMs over mine site operational manuals, telemetry logs, and dispatch records. | [![GitHub_Stars](https://img.shields.io/github/stars/ollama/ollama?style=social)](https://github.com/ollama/ollama/stargazers) |
+| **[pytorch/pytorch](https://github.com/pytorch/pytorch)** | Deep learning platform for computer-vision obstacle detection, haul truck payload estimation, and predictive maintenance models. | [![GitHub_Stars](https://img.shields.io/github/stars/pytorch/pytorch?style=social)](https://github.com/pytorch/pytorch/stargazers) |
+| **[scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn)** | Machine learning library for predicting equipment failure, haul cycle times, fuel consumption, and anomaly detection. | [![GitHub_Stars](https://img.shields.io/github/stars/scikit-learn/scikit-learn?style=social)](https://github.com/scikit-learn/scikit-learn/stargazers) |
+| **[scipy/scipy](https://github.com/scipy/scipy)** | Fundamental algorithms for scientific computing, statistical analysis of truck cycles, and numerical optimization. | [![GitHub_Stars](https://img.shields.io/github/stars/scipy/scipy?style=social)](https://github.com/scipy/scipy/stargazers) |
+| **[vllm-project/vllm](https://github.com/vllm-project/vllm)** | High-throughput open-source LLM inference engine for mining operations AI assistants. | [![GitHub_Stars](https://img.shields.io/github/stars/vllm-project/vllm?style=social)](https://github.com/vllm-project/vllm/stargazers) |
+| **[numpy/numpy](https://github.com/numpy/numpy)** | High-performance array computing foundation for simulation, telemetry analysis, and mathematical modeling. | [![GitHub_Stars](https://img.shields.io/github/stars/numpy/numpy?style=social)](https://github.com/numpy/numpy/stargazers) |
+| **[dmlc/xgboost](https://github.com/dmlc/xgboost)** | Scalable gradient boosting library for equipment downtime prediction and yield forecasting. | [![GitHub_Stars](https://img.shields.io/github/stars/dmlc/xgboost?style=social)](https://github.com/dmlc/xgboost/stargazers) |
 
 ---
 
 ### 📊 Operational Dashboards & Business Intelligence
 
-| 📦 Repository | 📝 Description | ⭐ Star Count |
+| 📦 Repository | 📝 Description | ⭐ Stars_Count |
 | :--- | :--- | :--- |
-| **[grafana/grafana](https://github.com/grafana/grafana)** | Multi-platform observability software for real-time fleet telematics, payload trends, engine health, and shift KPIs. | [![GitHub stars](https://img.shields.io/github/stars/grafana/grafana?style=social)](https://github.com/grafana/grafana/stargazers) |
-| **[apache/superset](https://github.com/apache/superset)** | Enterprise-grade BI data exploration & visualization platform for mining shift reporting and haulage analytics. | [![GitHub stars](https://img.shields.io/github/stars/apache/superset?style=social)](https://github.com/apache/superset/stargazers) |
-| **[apache/echarts](https://github.com/apache/echarts)** | Powerful interactive charting library for embedding 2D/3D mine maps, cycle timelines, and telemetry charts. | [![GitHub stars](https://img.shields.io/github/stars/apache/echarts?style=social)](https://github.com/apache/echarts/stargazers) |
-| **[metabase/metabase](https://github.com/metabase/metabase)** | Simple open-source business intelligence server for query generation, production reporting, and fleet performance insights. | [![GitHub stars](https://img.shields.io/github/stars/metabase/metabase?style=social)](https://github.com/metabase/metabase/stargazers) |
+| **[grafana/grafana](https://github.com/grafana/grafana)** | Multi-platform observability software for real-time fleet telematics, payload trends, engine health, and shift KPIs. | [![GitHub_Stars](https://img.shields.io/github/stars/grafana/grafana?style=social)](https://github.com/grafana/grafana/stargazers) |
+| **[apache/superset](https://github.com/apache/superset)** | Enterprise-grade BI data exploration & visualization platform for mining shift reporting and haulage analytics. | [![GitHub_Stars](https://img.shields.io/github/stars/apache/superset?style=social)](https://github.com/apache/superset/stargazers) |
+| **[apache/echarts](https://github.com/apache/echarts)** | Powerful interactive charting library for embedding 2D/3D mine maps, cycle timelines, and telemetry charts. | [![GitHub_Stars](https://img.shields.io/github/stars/apache/echarts?style=social)](https://github.com/apache/echarts/stargazers) |
+| **[metabase/metabase](https://github.com/metabase/metabase)** | Simple open-source business intelligence server for query generation, production reporting, and fleet performance insights. | [![GitHub_Stars](https://img.shields.io/github/stars/metabase/metabase?style=social)](https://github.com/metabase/metabase/stargazers) |
 
 ---
 
 ### 💾 Telemetry & Analytical Databases
 
-| 📦 Repository | 📝 Description | ⭐ Star Count |
+| 📦 Repository | 📝 Description | ⭐ Stars_Count |
 | :--- | :--- | :--- |
-| **[ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse)** | Columnar OLAP database for fast analytical queries over billions of heavy equipment telemetry records. | [![GitHub stars](https://img.shields.io/github/stars/ClickHouse/ClickHouse?style=social)](https://github.com/ClickHouse/ClickHouse/stargazers) |
-| **[apache/kafka](https://github.com/apache/kafka)** | Distributed event streaming platform for ingesting high-frequency CAN-bus, GPS, and sensor telemetry from mining fleets. | [![GitHub stars](https://img.shields.io/github/stars/apache/kafka?style=social)](https://github.com/apache/kafka/stargazers) |
-| **[influxdata/influxdb](https://github.com/influxdata/influxdb)** | Purpose-built time-series database for vehicle sensor monitoring, engine thermals, and pressure data streams. | [![GitHub stars](https://img.shields.io/github/stars/influxdata/influxdb?style=social)](https://github.com/influxdata/influxdb/stargazers) |
-| **[duckdb/duckdb](https://github.com/duckdb/duckdb)** | Embedded analytical SQL database for lightweight local processing of haul-cycle datasets and shift logs. | [![GitHub stars](https://img.shields.io/github/stars/duckdb/duckdb?style=social)](https://github.com/duckdb/duckdb/stargazers) |
-| **[timescale/timescaledb](https://github.com/timescale/timescaledb)** | Time-series database engine powered by PostgreSQL, optimized for equipment telemetry and geo-spatial location tracking. | [![GitHub stars](https://img.shields.io/github/stars/timescale/timescaledb?style=social)](https://github.com/timescale/timescaledb/stargazers) |
-| **[postgres/postgres](https://github.com/postgres/postgres)** | Object-relational database powering core mine operational data, dispatch assignments, and equipment registries. | [![GitHub stars](https://img.shields.io/github/stars/postgres/postgres?style=social)](https://github.com/postgres/postgres/stargazers) |
-| **[minio/minio](https://github.com/minio/minio)** | S3-compatible high-performance object store for drone imagery, high-rate sensor logs, and mine pit scans. | [![GitHub stars](https://img.shields.io/github/stars/minio/minio?style=social)](https://github.com/minio/minio/stargazers) |
-| **[apache/pulsar](https://github.com/apache/pulsar)** | Cloud-native, distributed messaging and event-streaming platform for enterprise-wide telemetry. | [![GitHub stars](https://img.shields.io/github/stars/apache/pulsar?style=social)](https://github.com/apache/pulsar/stargazers) |
+| **[ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse)** | Columnar OLAP database for fast analytical queries over billions of heavy equipment telemetry records. | [![GitHub_Stars](https://img.shields.io/github/stars/ClickHouse/ClickHouse?style=social)](https://github.com/ClickHouse/ClickHouse/stargazers) |
+| **[apache/kafka](https://github.com/apache/kafka)** | Distributed event streaming platform for ingesting high-frequency CAN-bus, GPS, and sensor telemetry from mining fleets. | [![GitHub_Stars](https://img.shields.io/github/stars/apache/kafka?style=social)](https://github.com/apache/kafka/stargazers) |
+| **[influxdata/influxdb](https://github.com/influxdata/influxdb)** | Purpose-built time-series database for vehicle sensor monitoring, engine thermals, and pressure data streams. | [![GitHub_Stars](https://img.shields.io/github/stars/influxdata/influxdb?style=social)](https://github.com/influxdata/influxdb/stargazers) |
+| **[duckdb/duckdb](https://github.com/duckdb/duckdb)** | Embedded analytical SQL database for lightweight local processing of haul-cycle datasets and shift logs. | [![GitHub_Stars](https://img.shields.io/github/stars/duckdb/duckdb?style=social)](https://github.com/duckdb/duckdb/stargazers) |
+| **[timescale/timescaledb](https://github.com/timescale/timescaledb)** | Time-series database engine powered by PostgreSQL, optimized for equipment telemetry and geo-spatial location tracking. | [![GitHub_Stars](https://img.shields.io/github/stars/timescale/timescaledb?style=social)](https://github.com/timescale/timescaledb/stargazers) |
+| **[postgres/postgres](https://github.com/postgres/postgres)** | Object-relational database powering core mine operational data, dispatch assignments, and equipment registries. | [![GitHub_Stars](https://img.shields.io/github/stars/postgres/postgres?style=social)](https://github.com/postgres/postgres/stargazers) |
+| **[minio/minio](https://github.com/minio/minio)** | S3-compatible high-performance object store for drone imagery, high-rate sensor logs, and mine pit scans. | [![GitHub_Stars](https://img.shields.io/github/stars/minio/minio?style=social)](https://github.com/minio/minio/stargazers) |
+| **[apache/pulsar](https://github.com/apache/pulsar)** | Cloud-native, distributed messaging and event-streaming platform for enterprise-wide telemetry. | [![GitHub_Stars](https://img.shields.io/github/stars/apache/pulsar?style=social)](https://github.com/apache/pulsar/stargazers) |
 
 ---
 
 ### 📡 IoT Infrastructure & Message Brokers
 
-| 📦 Repository | 📝 Description | ⭐ Star Count |
+| 📦 Repository | 📝 Description | ⭐ Stars_Count |
 | :--- | :--- | :--- |
-| **[node-red/node-red](https://github.com/node-red/node-red)** | Low-code programming environment for wiring together equipment APIs, MQTT topics, and operational dashboards. | [![GitHub stars](https://img.shields.io/github/stars/node-red/node-red?style=social)](https://github.com/node-red/node-red/stargazers) |
-| **[thingsboard/thingsboard](https://github.com/thingsboard/thingsboard)** | IoT platform for telemetry collection, device management, rule processing, and vehicle monitoring. | [![GitHub stars](https://img.shields.io/github/stars/thingsboard/thingsboard?style=social)](https://github.com/thingsboard/thingsboard/stargazers) |
-| **[emqx/emqx](https://github.com/emqx/emqx)** | Highly scalable distributed MQTT message broker designed for high-density IoT equipment telematics. | [![GitHub stars](https://img.shields.io/github/stars/emqx/emqx?style=social)](https://github.com/emqx/emqx/stargazers) |
-| **[eclipse-mosquitto/mosquitto](https://github.com/eclipse-mosquitto/mosquitto)** | Lightweight MQTT message broker suitable for edge gateways installed directly on mine haul trucks and shovels. | [![GitHub stars](https://img.shields.io/github/stars/eclipse-mosquitto/mosquitto?style=social)](https://github.com/eclipse-mosquitto/mosquitto/stargazers) |
-| **[nats-io/nats-server](https://github.com/nats-io/nats-server)** | Ultra-fast, lightweight messaging system for edge-to-cloud machine events and low-latency alerts. | [![GitHub stars](https://img.shields.io/github/stars/nats-io/nats-server?style=social)](https://github.com/nats-io/nats-server/stargazers) |
-| **[eclipse-kura/kura](https://github.com/eclipse-kura/kura)** | Industrial IoT edge framework providing connectivity to field protocols (CAN, Modbus, OPC-UA) on ruggedized mine hardware. | [![GitHub stars](https://img.shields.io/github/stars/eclipse-kura/kura?style=social)](https://github.com/eclipse-kura/kura/stargazers) |
+| **[node-red/node-red](https://github.com/node-red/node-red)** | Low-code programming environment for wiring together equipment APIs, MQTT topics, and operational dashboards. | [![GitHub_Stars](https://img.shields.io/github/stars/node-red/node-red?style=social)](https://github.com/node-red/node-red/stargazers) |
+| **[thingsboard/thingsboard](https://github.com/thingsboard/thingsboard)** | IoT platform for telemetry collection, device management, rule processing, and vehicle monitoring. | [![GitHub_Stars](https://img.shields.io/github/stars/thingsboard/thingsboard?style=social)](https://github.com/thingsboard/thingsboard/stargazers) |
+| **[emqx/emqx](https://github.com/emqx/emqx)** | Highly scalable distributed MQTT message broker designed for high-density IoT equipment telematics. | [![GitHub_Stars](https://img.shields.io/github/stars/emqx/emqx?style=social)](https://github.com/emqx/emqx/stargazers) |
+| **[eclipse-mosquitto/mosquitto](https://github.com/eclipse-mosquitto/mosquitto)** | Lightweight MQTT message broker suitable for edge gateways installed directly on mine haul trucks and shovels. | [![GitHub_Stars](https://img.shields.io/github/stars/eclipse-mosquitto/mosquitto?style=social)](https://github.com/eclipse-mosquitto/mosquitto/stargazers) |
+| **[nats-io/nats-server](https://github.com/nats-io/nats-server)** | Ultra-fast, lightweight messaging system for edge-to-cloud machine events and low-latency alerts. | [![GitHub_Stars](https://img.shields.io/github/stars/nats-io/nats-server?style=social)](https://github.com/nats-io/nats-server/stargazers) |
+| **[eclipse-kura/kura](https://github.com/eclipse-kura/kura)** | Industrial IoT edge framework providing connectivity to field protocols (CAN, Modbus, OPC-UA) on ruggedized mine hardware. | [![GitHub_Stars](https://img.shields.io/github/stars/eclipse-kura/kura?style=social)](https://github.com/eclipse-kura/kura/stargazers) |
 
 ---
 
 ### 🚛 Dispatch & Route Optimization Engines
 
-| 📦 Repository | 📝 Description | ⭐ Star Count |
+| 📦 Repository | 📝 Description | ⭐ Stars_Count |
 | :--- | :--- | :--- |
-| **[google/or-tools](https://github.com/google/or-tools)** | Operations research suite for vehicle routing (VRP), mixed-integer programming, and truck-shovel dynamic allocation. | [![GitHub stars](https://img.shields.io/github/stars/google/or-tools?style=social)](https://github.com/google/or-tools/stargazers) |
-| **[PyVRP/PyVRP](https://github.com/PyVRP/PyVRP)** | Modern hybrid genetic search library tailored for complex vehicle routing problems and fleet scheduling. | [![GitHub stars](https://img.shields.io/github/stars/PyVRP/PyVRP?style=social)](https://github.com/PyVRP/PyVRP/stargazers) |
-| **[Pyomo/pyomo](https://github.com/Pyomo/pyomo)** | Python-based open-source optimization modeling environment for linear and integer mine production planning. | [![GitHub stars](https://img.shields.io/github/stars/Pyomo/pyomo?style=social)](https://github.com/Pyomo/pyomo/stargazers) |
-| **[370025263/openmines](https://github.com/370025263/openmines)** | Dedicated open-pit mine haulage simulation environment for developing and benchmarking truck-dispatch algorithms. | [![GitHub stars](https://img.shields.io/github/stars/370025263/openmines?style=social)](https://github.com/370025263/openmines/stargazers) |
-| **[Yairama/vivania](https://github.com/Yairama/vivania)** | Open-pit mine fleet management system simulator modeling queuing, hauling, traffic, and RL-based dispatch. | [![GitHub stars](https://github.com/Yairama/vivania/stargazers?style=social)](https://github.com/Yairama/vivania/stargazers) |
-| **[fsantibanezleal/CAOS_MINEHAUL](https://github.com/fsantibanezleal/CAOS_MINEHAUL)** | Deterministic discrete-event mine-haulage simulator covering open-pit and underground constrained road networks. | [![GitHub stars](https://img.shields.io/github/stars/fsantibanezleal/CAOS_MINEHAUL?style=social)](https://github.com/fsantibanezleal/CAOS_MINEHAUL/stargazers) |
-| **[wesleycox/GA-TA-Truck-Dispatching](https://github.com/wesleycox/GA-TA-Truck-Dispatching)** | Genetic algorithm implementation for dynamic truck dispatching and target assignment in open-pit mining. | [![GitHub stars](https://img.shields.io/github/stars/wesleycox/GA-TA-Truck-Dispatching?style=social)](https://github.com/wesleycox/GA-TA-Truck-Dispatching/stargazers) |
+| **[google/or-tools](https://github.com/google/or-tools)** | Operations research suite for vehicle routing (VRP), mixed-integer programming, and truck-shovel dynamic allocation. | [![GitHub_Stars](https://img.shields.io/github/stars/google/or-tools?style=social)](https://github.com/google/or-tools/stargazers) |
+| **[PyVRP/PyVRP](https://github.com/PyVRP/PyVRP)** | Modern hybrid genetic search library tailored for complex vehicle routing problems and fleet scheduling. | [![GitHub_Stars](https://img.shields.io/github/stars/PyVRP/PyVRP?style=social)](https://github.com/PyVRP/PyVRP/stargazers) |
+| **[Pyomo/pyomo](https://github.com/Pyomo/pyomo)** | Python-based open-source optimization modeling environment for linear and integer mine production planning. | [![GitHub_Stars](https://img.shields.io/github/stars/Pyomo/pyomo?style=social)](https://github.com/Pyomo/pyomo/stargazers) |
+| **[370025263/openmines](https://github.com/370025263/openmines)** | Dedicated open-pit mine haulage simulation environment for developing and benchmarking truck-dispatch algorithms. | [![GitHub_Stars](https://img.shields.io/github/stars/370025263/openmines?style=social)](https://github.com/370025263/openmines/stargazers) |
+| **[Yairama/vivania](https://github.com/Yairama/vivania)** | Open-pit mine fleet management system simulator modeling queuing, hauling, traffic, and RL-based dispatch. | [![GitHub_Stars](https://github.com/Yairama/vivania/stargazers?style=social)](https://github.com/Yairama/vivania/stargazers) |
+| **[fsantibanezleal/CAOS_MINEHAUL](https://github.com/fsantibanezleal/CAOS_MINEHAUL)** | Deterministic discrete-event mine-haulage simulator covering open-pit and underground constrained road networks. | [![GitHub_Stars](https://img.shields.io/github/stars/fsantibanezleal/CAOS_MINEHAUL?style=social)](https://github.com/fsantibanezleal/CAOS_MINEHAUL/stargazers) |
+| **[wesleycox/GA-TA-Truck-Dispatching](https://github.com/wesleycox/GA-TA-Truck-Dispatching)** | Genetic algorithm implementation for dynamic truck dispatching and target assignment in open-pit mining. | [![GitHub_Stars](https://img.shields.io/github/stars/wesleycox/GA-TA-Truck-Dispatching?style=social)](https://github.com/wesleycox/GA-TA-Truck-Dispatching/stargazers) |
 
 ---
 
 ### 🗺️ GIS, Spatial & Mine Road Mapping
 
-| 📦 Repository | 📝 Description | ⭐ Star Count |
+| 📦 Repository | 📝 Description | ⭐ Stars_Count |
 | :--- | :--- | :--- |
-| **[qgis/QGIS](https://github.com/qgis/QGIS)** | Open-source Geographic Information System (GIS) for managing pit topographies, haul road networks, and geofences. | [![GitHub stars](https://img.shields.io/github/stars/qgis/QGIS?style=social)](https://github.com/qgis/QGIS/stargazers) |
-| **[Project-OSRM/osrm-backend](https://github.com/Project-OSRM/osrm-backend)** | High-performance C++ routing engine for fast travel-time estimation across complex mine haul road graphs. | [![GitHub stars](https://img.shields.io/github/stars/Project-OSRM/osrm-backend?style=social)](https://github.com/Project-OSRM/osrm-backend/stargazers) |
-| **[OpenDroneMap/ODM](https://github.com/OpenDroneMap/ODM)** | Drone photogrammetry suite generating 3D elevation models, orthophotos, and volume calculations for mine pits. | [![GitHub stars](https://img.shields.io/github/stars/OpenDroneMap/ODM?style=social)](https://github.com/OpenDroneMap/ODM/stargazers) |
-| **[graphhopper/graphhopper](https://github.com/graphhopper/graphhopper)** | Fast, memory-efficient Java routing engine supporting custom vehicle profiles and mine road restrictions. | [![GitHub stars](https://img.shields.io/github/stars/graphhopper/graphhopper?style=social)](https://github.com/graphhopper/graphhopper/stargazers) |
-| **[networkx/networkx](https://github.com/networkx/networkx)** | Python network analysis library for constructing, modeling, and analyzing mine road network graphs. | [![GitHub stars](https://img.shields.io/github/stars/networkx/networkx?style=social)](https://github.com/networkx/networkx/stargazers) |
-| **[postgis/postgis](https://github.com/postgis/postgis)** | Spatial database extender for PostgreSQL powering mine geometry, spatial queries, and geofence intersections. | [![GitHub stars](https://img.shields.io/github/stars/postgis/postgis?style=social)](https://github.com/postgis/postgis/stargazers) |
-| **[pgRouting/pgrouting](https://github.com/pgRouting/pgrouting)** | Geospatial routing extension for PostGIS/PostgreSQL to solve shortest paths directly within the spatial database. | [![GitHub stars](https://img.shields.io/github/stars/pgRouting/pgrouting?style=social)](https://github.com/pgRouting/pgrouting/stargazers) |
+| **[qgis/QGIS](https://github.com/qgis/QGIS)** | Open-source Geographic Information System (GIS) for managing pit topographies, haul road networks, and geofences. | [![GitHub_Stars](https://img.shields.io/github/stars/qgis/QGIS?style=social)](https://github.com/qgis/QGIS/stargazers) |
+| **[Project-OSRM/osrm-backend](https://github.com/Project-OSRM/osrm-backend)** | High-performance C++ routing engine for fast travel-time estimation across complex mine haul road graphs. | [![GitHub_Stars](https://img.shields.io/github/stars/Project-OSRM/osrm-backend?style=social)](https://github.com/Project-OSRM/osrm-backend/stargazers) |
+| **[OpenDroneMap/ODM](https://github.com/OpenDroneMap/ODM)** | Drone photogrammetry suite generating 3D elevation models, orthophotos, and volume calculations for mine pits. | [![GitHub_Stars](https://img.shields.io/github/stars/OpenDroneMap/ODM?style=social)](https://github.com/OpenDroneMap/ODM/stargazers) |
+| **[graphhopper/graphhopper](https://github.com/graphhopper/graphhopper)** | Fast, memory-efficient Java routing engine supporting custom vehicle profiles and mine road restrictions. | [![GitHub_Stars](https://img.shields.io/github/stars/graphhopper/graphhopper?style=social)](https://github.com/graphhopper/graphhopper/stargazers) |
+| **[networkx/networkx](https://github.com/networkx/networkx)** | Python network analysis library for constructing, modeling, and analyzing mine road network graphs. | [![GitHub_Stars](https://img.shields.io/github/stars/networkx/networkx?style=social)](https://github.com/networkx/networkx/stargazers) |
+| **[postgis/postgis](https://github.com/postgis/postgis)** | Spatial database extender for PostgreSQL powering mine geometry, spatial queries, and geofence intersections. | [![GitHub_Stars](https://img.shields.io/github/stars/postgis/postgis?style=social)](https://github.com/postgis/postgis/stargazers) |
+| **[pgRouting/pgrouting](https://github.com/pgRouting/pgrouting)** | Geospatial routing extension for PostGIS/PostgreSQL to solve shortest paths directly within the spatial database. | [![GitHub_Stars](https://img.shields.io/github/stars/pgRouting/pgrouting?style=social)](https://github.com/pgRouting/pgrouting/stargazers) |
 
 ---
 
 ### 🛰️ Telematics & Vehicle Tracking Platforms
 
-| 📦 Repository | 📝 Description | ⭐ Star Count |
+| 📦 Repository | 📝 Description | ⭐ Stars_Count |
 | :--- | :--- | :--- |
-| **[traccar/traccar](https://github.com/traccar/traccar)** | Open-source GPS tracking platform supporting over 200 telematics protocols and thousands of hardware models. | [![GitHub stars](https://img.shields.io/github/stars/traccar/traccar?style=social)](https://github.com/traccar/traccar/stargazers) |
-| **[openremote/openremote](https://github.com/openremote/openremote)** | Asset management and IoT ecosystem featuring rules engine, geo-fencing, and vehicle telemetry tracking. | [![GitHub stars](https://img.shields.io/github/stars/openremote/openremote?style=social)](https://github.com/openremote/openremote/stargazers) |
-| **[COVESA/vehicle_signal_specification](https://github.com/COVESA/vehicle_signal_specification)** | Standardized domain model for vehicle data and machine telemetry signals. | [![GitHub stars](https://img.shields.io/github/stars/COVESA/vehicle_signal_specification?style=social)](https://github.com/COVESA/vehicle_signal_specification/stargazers) |
-| **[eclipse-kuksa/kuksa.val](https://github.com/eclipse-kuksa/kuksa.val)** | In-vehicle telemetry server providing standardized access to machine CAN data and sensors. | [![GitHub stars](https://img.shields.io/github/stars/eclipse-kuksa/kuksa.val?style=social)](https://github.com/eclipse-kuksa/kuksa.val/stargazers) |
-| **[owntracks/recorder](https://github.com/owntracks/recorder)** | Lightweight self-hosted backend for logging and storing location tracking histories. | [![GitHub stars](https://img.shields.io/github/stars/owntracks/recorder?style=social)](https://github.com/owntracks/recorder/stargazers) |
+| **[traccar/traccar](https://github.com/traccar/traccar)** | Open-source GPS tracking platform supporting over 200 telematics protocols and thousands of hardware models. | [![GitHub_Stars](https://img.shields.io/github/stars/traccar/traccar?style=social)](https://github.com/traccar/traccar/stargazers) |
+| **[openremote/openremote](https://github.com/openremote/openremote)** | Asset management and IoT ecosystem featuring rules engine, geo-fencing, and vehicle telemetry tracking. | [![GitHub_Stars](https://img.shields.io/github/stars/openremote/openremote?style=social)](https://github.com/openremote/openremote/stargazers) |
+| **[COVESA/vehicle_signal_specification](https://github.com/COVESA/vehicle_signal_specification)** | Standardized domain model for vehicle data and machine telemetry signals. | [![GitHub_Stars](https://img.shields.io/github/stars/COVESA/vehicle_signal_specification?style=social)](https://github.com/COVESA/vehicle_signal_specification/stargazers) |
+| **[eclipse-kuksa/kuksa.val](https://github.com/eclipse-kuksa/kuksa.val)** | In-vehicle telemetry server providing standardized access to machine CAN data and sensors. | [![GitHub_Stars](https://img.shields.io/github/stars/eclipse-kuksa/kuksa.val?style=social)](https://github.com/eclipse-kuksa/kuksa.val/stargazers) |
+| **[owntracks/recorder](https://github.com/owntracks/recorder)** | Lightweight self-hosted backend for logging and storing location tracking histories. | [![GitHub_Stars](https://img.shields.io/github/stars/owntracks/recorder?style=social)](https://github.com/owntracks/recorder/stargazers) |
 
 ---
 
 ### 🤖 Autonomous Mining, Simulation & Robotics
 
-| 📦 Repository | 📝 Description | ⭐ Star Count |
+| 📦 Repository | 📝 Description | ⭐ Stars_Count |
 | :--- | :--- | :--- |
-| **[carla-simulator/carla](https://github.com/carla-simulator/carla)** | Open-source autonomous driving simulator for evaluating vehicle perception, sensor suites, and control algorithms. | [![GitHub stars](https://img.shields.io/github/stars/carla-simulator/carla?style=social)](https://github.com/carla-simulator/carla/stargazers) |
-| **[autowarefoundation/autoware](https://github.com/autowarefoundation/autoware)** | Complete open-source self-driving software stack covering perception, localization, path planning, and control. | [![GitHub stars](https://img.shields.io/github/stars/autowarefoundation/autoware?style=social)](https://github.com/autowarefoundation/autoware/stargazers) |
-| **[PX4/PX4-Autopilot](https://github.com/PX4/PX4-Autopilot)** | Professional open-source autopilot software powering aerial survey drones and autonomous mapping vehicles. | [![GitHub stars](https://img.shields.io/github/stars/PX4/PX4-Autopilot?style=social)](https://github.com/PX4/PX4-Autopilot/stargazers) |
-| **[ros2/ros2](https://github.com/ros2/ros2)** | Industry-standard robot operating system middleware powering autonomous heavy machine development. | [![GitHub stars](https://img.shields.io/github/stars/ros2/ros2?style=social)](https://github.com/ros2/ros2/stargazers) |
-| **[ros-navigation/navigation2](https://github.com/ros-navigation/navigation2)** | ROS 2 navigation framework providing path planning, obstacle avoidance, and vehicle motion control. | [![GitHub stars](https://img.shields.io/github/stars/ros-navigation/navigation2?style=social)](https://github.com/ros-navigation/navigation2/stargazers) |
-| **[open-rmf/rmf](https://github.com/open-rmf/rmf)** | Multi-fleet robotics management framework for coordinating diverse autonomous vehicle fleets across shared infrastructure. | [![GitHub stars](https://img.shields.io/github/stars/open-rmf/rmf?style=social)](https://github.com/open-rmf/rmf/stargazers) |
+| **[carla-simulator/carla](https://github.com/carla-simulator/carla)** | Open-source autonomous driving simulator for evaluating vehicle perception, sensor suites, and control algorithms. | [![GitHub_Stars](https://img.shields.io/github/stars/carla-simulator/carla?style=social)](https://github.com/carla-simulator/carla/stargazers) |
+| **[autowarefoundation/autoware](https://github.com/autowarefoundation/autoware)** | Complete open-source self-driving software stack covering perception, localization, path planning, and control. | [![GitHub_Stars](https://img.shields.io/github/stars/autowarefoundation/autoware?style=social)](https://github.com/autowarefoundation/autoware/stargazers) |
+| **[PX4/PX4-Autopilot](https://github.com/PX4/PX4-Autopilot)** | Professional open-source autopilot software powering aerial survey drones and autonomous mapping vehicles. | [![GitHub_Stars](https://img.shields.io/github/stars/PX4/PX4-Autopilot?style=social)](https://github.com/PX4/PX4-Autopilot/stargazers) |
+| **[ros2/ros2](https://github.com/ros2/ros2)** | Industry-standard robot operating system middleware powering autonomous heavy machine development. | [![GitHub_Stars](https://img.shields.io/github/stars/ros2/ros2?style=social)](https://github.com/ros2/ros2/stargazers) |
+| **[ros-navigation/navigation2](https://github.com/ros-navigation/navigation2)** | ROS 2 navigation framework providing path planning, obstacle avoidance, and vehicle motion control. | [![GitHub_Stars](https://img.shields.io/github/stars/ros-navigation/navigation2?style=social)](https://github.com/ros-navigation/navigation2/stargazers) |
+| **[open-rmf/rmf](https://github.com/open-rmf/rmf)** | Multi-fleet robotics management framework for coordinating diverse autonomous vehicle fleets across shared infrastructure. | [![GitHub_Stars](https://img.shields.io/github/stars/open-rmf/rmf?style=social)](https://github.com/open-rmf/rmf/stargazers) |
 
 ---
 
@@ -268,7 +268,7 @@ Contributions are always welcome!
 
 1. **Fork** this repository.
 2. Add your new entry under the appropriate section in `README.md`.
-3. Ensure open-source repositories include a valid GitHub star badge linked to stargazers.
+3. Ensure open-source repositories include a valid GitHub Stars_Badge linked to stargazers.
 4. Submit a **Pull Request** with a brief summary of the project.
 
 ---
