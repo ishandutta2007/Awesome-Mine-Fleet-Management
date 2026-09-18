@@ -1,0 +1,107 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" width="100%" height="100%">
+  <defs>
+    <!-- Background Dark Mesh Gradient -->
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0f1d" />
+      <stop offset="50%" stop-color="#0d1b2a" />
+      <stop offset="100%" stop-color="#1b263b" />
+    </linearGradient>
+
+    <!-- Glowing Accent Gradient -->
+    <linearGradient id="accentGlow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff9e00" />
+      <stop offset="50%" stop-color="#ff6d00" />
+      <stop offset="100%" stop-color="#e0a96d" />
+    </linearGradient>
+
+    <linearGradient id="cyanGlow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00f5d4" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#00b4d8" stop-opacity="0.2" />
+    </linearGradient>
+
+    <!-- Dynamic Pulse Animations -->
+    <style>
+      .pulse-circle {
+        animation: pulse 4s infinite ease-in-out;
+      }
+      .pulse-circle-delayed {
+        animation: pulse 4s infinite ease-in-out 2s;
+      }
+      .grid-wave {
+        animation: wave 8s infinite linear;
+      }
+      .glow-text {
+        text-shadow: 0 0 15px rgba(255, 158, 0, 0.6), 0 0 30px rgba(0, 245, 212, 0.4);
+      }
+      @keyframes pulse {
+        0% { transform: scale(1); opacity: 0.3; }
+        50% { transform: scale(1.15); opacity: 0.7; }
+        100% { transform: scale(1); opacity: 0.3; }
+      }
+      @keyframes wave {
+        0% { transform: translateY(0px); }
+        50% { transform: translateY(-10px); }
+        100% { transform: translateY(0px); }
+      }
+    </style>
+  </defs>
+
+  <!-- Background Layer -->
+  <rect width="1200" height="400" fill="url(#bgGradient)" rx="16" />
+
+  <!-- Animated Tech Grid Background -->
+  <g opacity="0.15" class="grid-wave">
+    <path d="M0,50 H1200 M0,100 H1200 M0,150 H1200 M0,200 H1200 M0,250 H1200 M0,300 H1200 M0,350 H1200" stroke="#00f5d4" stroke-width="1" stroke-dasharray="5,5" />
+    <path d="M100,0 V400 M200,0 V400 M300,0 V400 M400,0 V400 M500,0 V400 M600,0 V400 M700,0 V400 M800,0 V400 M900,0 V400 M1000,0 V400 M1100,0 V400" stroke="#00f5d4" stroke-width="1" stroke-dasharray="5,5" />
+  </g>
+
+  <!-- Dynamic Vector Nodes / Mining Telematics Radar Graphic -->
+  <g transform="translate(950, 200)">
+    <circle cx="0" cy="0" r="140" fill="none" stroke="url(#cyanGlow)" stroke-width="2" class="pulse-circle" style="transform-origin: center;" />
+    <circle cx="0" cy="0" r="90" fill="none" stroke="url(#accentGlow)" stroke-width="2" class="pulse-circle-delayed" style="transform-origin: center;" />
+    <circle cx="0" cy="0" r="40" fill="#ff9e00" opacity="0.4" />
+    
+    <!-- Radar Sweep line -->
+    <line x1="0" y1="0" x2="120" y2="-70" stroke="#00f5d4" stroke-width="3" stroke-linecap="round" />
+    <circle cx="120" cy="-70" r="6" fill="#00f5d4" />
+    <circle cx="-50" cy="60" r="5" fill="#ff6d00" />
+    <circle cx="70" cy="80" r="7" fill="#00f5d4" />
+  </g>
+
+  <!-- Mining Heavy Haul Truck Outline Icon Background Subtle -->
+  <g transform="translate(80, 220)" opacity="0.12">
+    <path d="M20,100 L120,100 L160,40 L260,40 L280,100 L320,100 L340,160 L0,160 Z" fill="#ff9e00" />
+    <circle cx="70" cy="170" r="30" fill="#ffffff" />
+    <circle cx="270" cy="170" r="30" fill="#ffffff" />
+  </g>
+
+  <!-- Foreground Title and Subtitle Container -->
+  <!-- Solid Dark Contrast Card behind text to prevent overlap/obscuring -->
+  <rect x="70" y="70" width="800" height="260" rx="12" fill="#0d1b2a" opacity="0.85" stroke="#ff9e00" stroke-width="1.5" />
+
+  <!-- Foreground Text Content -->
+  <g transform="translate(100, 120)">
+    <!-- Category Tag Badge -->
+    <rect x="0" y="0" width="260" height="32" rx="16" fill="url(#accentGlow)" />
+    <text x="130" y="21" fill="#0a0f1d" font-family="'Segoe UI', Roboto, sans-serif" font-weight="800" font-size="14" text-anchor="middle" letter-spacing="1.5">
+      🚜 MINING TELEMATICS &amp; FMS
+    </text>
+
+    <!-- Main Title -->
+    <text x="0" y="80" fill="#ffffff" font-family="'Segoe UI', Roboto, sans-serif" font-weight="900" font-size="38" letter-spacing="1" class="glow-text">
+      Awesome Mine Fleet Management
+    </text>
+
+    <!-- Subtitle -->
+    <text x="0" y="125" fill="#e0e1dd" font-family="'Segoe UI', Roboto, sans-serif" font-weight="500" font-size="18">
+      Curated Mining FMS • Dynamic Truck Dispatch • Telematics • IoT &amp; Autonomy
+    </text>
+
+    <!-- Feature Tags -->
+    <g transform="translate(0, 155)">
+      <text x="0" y="0" fill="#00f5d4" font-family="'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="600">
+        ⚡ Open-Source Building Blocks &amp; Enterprise SaaS Ecosystem
+      </text>
+    </g>
+  </g>
+</svg>
